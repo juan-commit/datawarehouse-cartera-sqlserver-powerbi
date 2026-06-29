@@ -120,15 +120,13 @@ proyecto-datawarehouse-cartera/
 
 ## 7. Vista previa del dashboard
 
-> Agregar aquí capturas del dashboard una vez exportadas desde Power BI.
+> Capturas del dashboard exportadas desde Power BI.
 
-Ejemplo:
 
-```markdown
+
 ![Dashboard general](powerbi/capturas/dashboard-general.png)
-![Cartera por zona](powerbi/capturas/cartera-por-zona.png)
-![Saldos por cliente](powerbi/capturas/saldos-por-cliente.png)
-```
+![Cartera por zona](powerbi/capturas/riesgo-cartera.png)
+![Saldos por cliente](powerbi/capturas/modelo-relaciones.png)
 
 ---
 
