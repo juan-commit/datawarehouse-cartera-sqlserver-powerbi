@@ -1,0 +1,1 @@
+Coloca aquí diagramas de arquitectura, modelo dimensional o flujo ETL.
