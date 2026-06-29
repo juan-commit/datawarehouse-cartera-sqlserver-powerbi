@@ -123,9 +123,9 @@ proyecto-datawarehouse-cartera/
 > Capturas del dashboard exportadas desde Power BI.
 
 
-![Dashboard general](proyecto-datawarehouse-cartera-github/powerbi/capturas/dashboard-general.png)
-![Cartera por zona](proyecto-datawarehouse-cartera-github/powerbi/capturas/riesgo-cartera.png)
-![Saldos por cliente](proyecto-datawarehouse-cartera-github/powerbi/capturas/modelo-relaciones-powerbi.png)
+![Dashboard general](https://raw.githubusercontent.com/juan-commit/datawarehouse-cartera-sqlserver-powerbi/main/proyecto-datawarehouse-cartera-github/powerbi/capturas/dashboard-general.png)
+![Cartera por zona](https://raw.githubusercontent.com/juan-commit/datawarehouse-cartera-sqlserver-powerbi/main/proyecto-datawarehouse-cartera-github/powerbi/capturas/riesgo-cartera.png)
+![Saldos por cliente](https://raw.githubusercontent.com/juan-commit/datawarehouse-cartera-sqlserver-powerbi/main/proyecto-datawarehouse-cartera-github/powerbi/capturas/modelo-relaciones-powerbi.png)
 
 ---
 
