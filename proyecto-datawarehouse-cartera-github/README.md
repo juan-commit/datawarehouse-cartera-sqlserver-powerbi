@@ -126,7 +126,7 @@ proyecto-datawarehouse-cartera/
 
 ![Dashboard general](powerbi/capturas/dashboard-general.png)
 ![Cartera por zona](powerbi/capturas/riesgo-cartera.png)
-![Saldos por cliente](powerbi/capturas/modelo-relaciones.png)
+![Saldos por cliente](powerbi/capturas/modelo-relaciones-powerbi.png)
 
 ---
 
